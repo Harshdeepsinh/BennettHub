@@ -1,7 +1,6 @@
-# InnoAppChallenge
+# BennettHub
 
-
-## Bennett Hub App [![GitHub stars](https://img.shields.io/github/stars/AkshatRastogi-1nC0re/InnoAppChallenge?style=social)](https://github.com/login?return_to=%2FAkshatRastogi-1nC0re%InnoAppChallenge) ![GitHub forks](https://img.shields.io/github/forks/AkshatRastogi-1nC0re/InnoAppChallenge?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/AkshatRastogi-1nC0re/InnoAppChallenge) ![Dart CI](https://github.com/TheAlphamerc/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com//AkshatRastogi-1nC0re/InnoAppChallenge) 
+## Bennett Hub App [![GitHub stars](https://img.shields.io/github/stars/Harshdeepsinh/BennettHub?style=social)](https://github.com/login?return_to=%2FHarshdeepsinh%BennettHub) ![GitHub forks](https://img.shields.io/github/forks/Harshdeepsinh/BennettHub?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Harshdeepsinh/BennettHub) ![Dart CI](https://github.com/TheAlphamerc/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com//Harshdeepsinh/BennettHub) 
 
 A social networking platform called Bennett Hub was created especially for the university's students. Many people, including their batchmates, students from various courses, their seniors, their juniors, and essentially everyone who is a part of the university, would find this application to be a blessing in their quest to widen their social circle and meet new acquaintances.
 
@@ -38,20 +37,3 @@ and many more..
 Dart Programming Language,
 Flutter, and
 Firebase
-
-
-## Created & Maintained By
-
-[Akshat Rastogi](https://github.com/AkshatRastogi-1nC0re)
-Email: [E20CSE003@bennett.edu.in](mailto:E20CSE003@bennett.edu.in)
-
-[Aryan Solanki](https://github.com/Aryan-Solanki)
-Email: [E20CSE157@bennett.edu.in](mailto:E20CSE157@bennett.edu.in)
-
-[Yash Sharma](https://github.com/yashsharma1702)
-Email: [E20CSE158@bennett.edu.in](mailto:E20CSE158@bennett.edu.in)
-
-
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/InnoAppChallenge/count.svg" alt ="Loading">
