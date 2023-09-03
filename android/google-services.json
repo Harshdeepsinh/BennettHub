@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342230266559",
+    "project_id": "innoappchallenge",
+    "storage_bucket": "innoappchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342230266559:android:6cd7a54d6810cb107f0c0a",
+        "android_client_info": {
+          "package_name": "com.async.socialbennett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342230266559-l2v7epne28g0cjd6ejpapcve9trag74s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.async.socialbennett",
+            "certificate_hash": "99ea5d0929097944e1912ba154e7b74bb362c707"
+          }
+        },
+        {
+          "client_id": "342230266559-b2cvuc573slo1m0fosmtatq87b102k97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1a55H7Cqdq1tErd9p1Uj0a8d8oIS3zIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342230266559-b2cvuc573slo1m0fosmtatq87b102k97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
